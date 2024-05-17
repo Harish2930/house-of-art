@@ -1,6 +1,6 @@
 # House of Art
 
-Welcome to the House of Art! This project is a dynamic and visually stunning web application created using Next.js and Accentri UI. It showcases various artworks, providing an interactive and immersive experience for art enthusiasts.
+Welcome to the House of Art! This project is a dynamic and visually stunning web application created using Next.js and Accernity UI. It showcases various artworks, providing an interactive and immersive experience for art enthusiasts.
 
 ## Table of Contents
 - [Introduction](#introduction)
