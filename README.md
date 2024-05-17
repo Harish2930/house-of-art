@@ -13,7 +13,7 @@ Welcome to the House of Art! This project is a dynamic and visually stunning web
 - [Contact](#contact)
 
 ## Introduction
-The House of Art project aims to create a platform where users can explore and appreciate different forms of art. Built with the power of Next.js and styled with Accentri UI, this application offers a seamless and responsive user experience.
+The House of Art project aims to create a platform where users can explore and appreciate different forms of art. Built with the power of Next.js and styled with Accernity UI, this application offers a seamless and responsive user experience.
 
 ## Features
 - **Artwork Gallery**: Browse through a collection of various artworks.
