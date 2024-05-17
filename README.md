@@ -16,14 +16,12 @@ Welcome to the House of Art! This project is a dynamic and visually stunning web
 The House of Art project aims to create a platform where users can explore and appreciate different forms of art. Built with the power of Next.js and styled with Accernity UI, this application offers a seamless and responsive user experience.
 
 ## Features
-- **Artwork Gallery**: Browse through a collection of various artworks.
 - **Responsive Design**: Ensures optimal viewing on different devices.
 - **Interactive UI**: Smooth and engaging user interface.
-- **Fast Loading**: Optimized for quick loading times and performance.
 
 ## Technologies Used
 - **Next.js**: A React framework for server-side rendering and static site generation.
-- **Accentri UI**: A modern UI library for styling the application.
+- **Accernity UI**: A modern UI library for styling the application.
 - **Vercel**: Hosting platform for deploying the application.
 
 ## Installation
